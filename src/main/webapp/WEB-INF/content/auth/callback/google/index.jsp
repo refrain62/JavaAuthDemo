@@ -1,12 +1,12 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<%@ taglib prefix="s" uri="/struts-tags" %>
 
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Struts2 サンプル</title>
+<title>Google認証テスト</title>
 </head>
 <body>
-<h2>Hello World!</h2>
-<a href="/auth/callback/google">google認証</a>
+<h1>google認証テスト</h1>
 </body>
 </html>
