@@ -7,6 +7,9 @@
   <version>1.0-SNAPSHOT</version>
   <name>JavaAuthDemo Maven Webapp</name>
   <url>http://maven.apache.org</url>
+  <properties>
+    <tomcat.version>7.0.73</tomcat.version>
+  </properties>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
